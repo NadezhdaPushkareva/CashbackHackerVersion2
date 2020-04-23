@@ -1,0 +1,1 @@
+# CI CashbackHackerVersion2 [![Build status](https://ci.appveyor.com/api/projects/status/b10p15i8s3p7eedj?svg=true)](https://ci.appveyor.com/project/NadezhdaPushkareva/cashbackhackerversion2)
